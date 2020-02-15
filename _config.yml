@@ -82,11 +82,14 @@ analytics:
 author:
   name             : "Isaac Handley-Miner"
   avatar           : "profile.png"
-  bio              : "Lab manager \n Department of Psychology \n Stanford University"
+  bio              : > 
+"Lab manager
+Department of Psychology
+Stanford University"
   location         : "Stanford University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=isaac+handley-miner&btnG="
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
