@@ -1,6 +1,6 @@
 ---
 title: "Mt. Tamalpais, 2019"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/_1_mttam.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/1_mttam.png'>"
 collection: portfolio
 ---
 
